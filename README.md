@@ -8,6 +8,6 @@
 -  彈窗Resourse
    - link : https://sweetalert2.github.io/
 -  表單Resourse
-   - link : https://vue3-datatable-document.vercel.app/#
+   - link : https://vue3-datatable-document.vercel.app/
 - 購物步驟流程
-  - link: https://vue3-form-wizard-document.netlify.app/# Vue_Package_Module
+  - link: https://vue3-form-wizard-document.netlify.app/
